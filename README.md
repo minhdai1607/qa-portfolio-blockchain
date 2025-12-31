@@ -5,7 +5,7 @@
 - Manual & Automation Testing
 - Domain: Blockchain / Web3
 
-⚠️ This repository is for portfolio purposes only.
+This repository is for portfolio purposes only.
 Source code is excluded due to NDA.
 
 ## Skills
@@ -30,3 +30,13 @@ Blockchain Wallet Platform (Portfolio version)
 - Test Scenarios
 - Sample Test Cases
 - Bug Reports
+
+## Why Playwright?
+- Auto-wait reduces flaky tests
+- Built-in parallel execution
+
+## Framework Design:
+- Page Object Model
+- Custom fixtures for auth
+- Reusable test utilities
+- Retry for unstable cases
